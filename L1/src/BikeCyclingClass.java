@@ -3,7 +3,7 @@ public class BikeCyclingClass implements Bicycle {
 
 	public Cycle BikeCycling()
 	{
-		return new CycligClass();
+		return new CycligClass("Byciclist",10);
 	}
 	
 }
